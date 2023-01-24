@@ -14,8 +14,8 @@ A full stack ecommerce web application
 
 - Backend (API)
 
-- C#
-- .Net Core
-- SQLite
-- Entity framwork
-- Linq
+  - C#
+  - .Net Core
+  - SQLite
+  - Entity framwork
+  - Linq
